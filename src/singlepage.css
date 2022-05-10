@@ -1,0 +1,183 @@
+*{
+   padding: 0;
+   margin: 0;
+}
+.maintain{
+  float: left;
+}
+.sale{
+   position: relative;
+   bottom: 100px; right: 55px;
+}
+.shop{
+   position: relative;
+   bottom: 7px;
+}
+.quan{
+   position: relative;
+   right: 5px; bottom: 7px;
+}
+/* .andro{
+   position: relative; bottom: 50px;
+   font-size: x-small; 
+} */
+strong{
+   font-size: large;
+   color: black;
+}
+.star{
+   color: yellow; font-size: x-small;
+   position: relative;
+   top: 6px;
+}
+.review{
+   font-size: x-small;
+   position: relative;  
+}
+.content{
+   position: relative; bottom: 50px;
+}
+.cart{
+   margin-top: -50px;
+}
+.SKU{
+  font-size: x-small;
+  position: relative; left: -25px;
+  margin: 10px 0px;
+}
+.share{
+   background-color: antiquewhite;
+   font-size: xx-small;
+   
+}
+p{
+   font-size: xx-small;
+}
+.Social{
+   justify-content: end;
+}
+.footer{
+   background-color: #2a2e34;
+   color: white;
+   height: 300px;
+}
+input{
+   background-color: #828588;
+   width: 100px;
+   font-size: xx-small;
+}
+.send{
+   font-size: xx-small;
+   width: 28px;height: 18px;
+   background-color: #828588;
+}
+.four{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: x-small; position: relative;top: -20px;
+
+}
+button{
+   background-color: #294cff;
+   /* padding: 5px; */
+   font-size: xx-small;
+   /* position: relative;right: -50px; */
+}
+.navbar-item{
+   padding: 10px; font-size: x-small;
+}
+.navigation{
+   padding: 5px; font-size: x-small;
+   position: relative; left: -25px;
+}
+.navigation-ul{
+   list-style-type: none;
+}
+.navigation-item{
+   float: left;
+}
+.iconBar{
+  position: relative; left: 100%; top: -20px;
+}
+
+.middle{
+ margin-top: -80px;
+}
+.img{
+   width: 30%;
+   /* height: 500px; */
+}
+
+.right{
+   width: 30%;
+}
+.para{
+   margin-left: -25px;
+}
+#btn{
+   background: #294cff;
+   width: 70px; height: 25px;
+   color: aliceblue;
+   font-size: 8px;
+}
+.addCart{
+   margin: 10px 0px;
+}
+
+.shared{
+   width: 60px;
+   color: black;
+   background-color: white;
+}
+.description{
+   color: #294cff;
+   border-bottom: 1px;
+   font-size: small;
+}
+.reviews{
+   font-size: small;
+}
+.description_review{
+   position: relative;
+   left: -25px;
+}
+.footer_head{
+   background-color: #2a2e34;
+   height: 200px;
+}
+.social{
+   position: relative;left: 200px;
+   color: white; 
+}
+.icon{
+   padding: 5px;
+}
+.heading_footer{
+   margin-top: 10px;
+   padding: 10px;
+   border-bottom: 1px solid white;
+}
+.terms{
+   color: white;
+   margin-top: 30px;
+}
+button{
+   width: 100px;
+   height: 20px;
+
+}
+.btncart{
+   width:100px;
+   height: 30px;
+   position: relative; left: 200px; top: -25px;
+}
+.purchaseBtn{
+   width: 100px;
+   height: 30px;
+}
+.privacy{
+   position: relative; bottom: -20px; right: -150px; bottom: 9px;
+   font-size: xx-small;
+}
+.shufflehound{
+   font-size: xx-small;
+}
